@@ -1,3 +1,5 @@
+//Jaden Schuster
+
 package tests;
 
 import org.junit.runner.JUnitCore;
